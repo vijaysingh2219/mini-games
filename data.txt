@@ -1,0 +1,14 @@
+Name: rok
+UserChoice: rok
+BotChoice: rock
+Result: You LoseName: vijay
+UserChoice: rock
+BotChoice: scissors
+Result: You WonName: rock
+UserChoice: rock
+BotChoice: rock
+Result: Tie
+Name: rock
+UserChoice: rock
+BotChoice: scissors
+Result: You Won
